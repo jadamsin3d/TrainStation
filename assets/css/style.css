@@ -1,0 +1,32 @@
+body {
+    background-color: #777777;
+}
+
+.trainSched {
+    margin-bottom: 30px;
+}
+
+p {
+    margin: 0px;
+}
+
+#trainName, #trainDes, #firstTime, #trainFreq {
+    margin-bottom: 10px;
+    width: 500px;
+}
+
+td {
+    transform: rotateZ(360deg);
+    transition: transform 2s;
+    transition-delay: 2s;
+    transition-duration: 1.5s;
+}
+
+.submitbtn {
+    height: 40px;
+    width: 200px;
+    margin: 12px;
+    font-size: 20px;
+}
+
+
